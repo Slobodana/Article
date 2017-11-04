@@ -1,0 +1,39 @@
+.sastanak{
+	max-width: 100%;
+	height: auto;
+}
+
+div{
+	position: relative;
+	margin-top: -50px;
+	margin-left: 50px;
+	background-color: white;
+	border: 2px solid gray;
+	width: 50%;
+	padding: 2% 5% 7%;
+}
+
+h1{
+	margin: none;
+}
+
+.komentar{
+	text-decoration: none;
+	color: orange;
+}
+
+#okrugla{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	float: right;
+}
+
+article{
+	margin-left: 250px;
+}
+
+.heading{
+	text-decoration: none;
+	color: black;
+}
